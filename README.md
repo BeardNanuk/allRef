@@ -1,13 +1,15 @@
 # allRef
 
 
+20171017 refresh my own, and for all too
+
+
+
+~~~~~~~~~~~~~~~~~~~~~
+
 
 20171004 add more in geophysics
-
-
-
 ~~~~~~~~~
-
 
 will keep this the only one for each updates
 
